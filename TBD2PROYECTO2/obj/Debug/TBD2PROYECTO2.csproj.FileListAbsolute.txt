@@ -1,0 +1,9 @@
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\bin\Debug\TBD2PROYECTO2.exe.config
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\obj\Debug\TBD2PROYECTO2.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\obj\Debug\TBD2PROYECTO2.Form1.resources
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\obj\Debug\TBD2PROYECTO2.Properties.Resources.resources
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\obj\Debug\TBD2PROYECTO2.csproj.GenerateResource.Cache
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\bin\Debug\TBD2PROYECTO2.exe
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\bin\Debug\TBD2PROYECTO2.pdb
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\obj\Debug\TBD2PROYECTO2.exe
+C:\Users\Edwin\Documents\Progra 4\TBD2PROYECTO2\TBD2PROYECTO2\obj\Debug\TBD2PROYECTO2.pdb
